@@ -1,0 +1,110 @@
+{
+  "tests": [
+    {
+      "name": "Exercise 6.1 part a l=10 check",
+      "setup": "",
+      "run": "sudo ./test 0",
+      "input": "",
+      "output": "1",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 7
+    },
+    {
+      "name": "Exercise 6.1 part b l=10 check",
+      "setup": "",
+      "run": "sudo ./test 1",
+      "input": "",
+      "output": "1",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 7
+    },
+    {
+      "name": "Exercise 6.1 part b l=100 check",
+      "setup": "",
+      "run": "sudo ./test 2",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 7
+    },
+    {
+      "name": "Exercise 6.1 part c l=10 check",
+      "setup": "",
+      "run": "sudo ./test 3",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 7
+    },
+    {
+      "name": "Exercise 6.1 part c l=100 check",
+      "setup": "",
+      "run": "sudo ./test 4",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 7
+    },
+    {
+      "name": "Exercise 6.1 part d l=10 check",
+      "setup": "",
+      "run": "sudo ./test 5",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 7
+    },
+    {
+      "name": "Exercise 6.1 part d l=100 check",
+      "setup": "",
+      "run": "sudo ./test 6",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 7
+    },
+    {
+      "name": "Exercise 6.1 part e l=10 check",
+      "setup": "",
+      "run": "sudo ./test 7",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 7
+    },
+    {
+      "name": "Exercise 6.1 part e l=100 check",
+      "setup": "",
+      "run": "sudo ./test 8",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 7
+    },
+    {
+      "name": "Filtered audio check",
+      "setup": "",
+      "run": "sudo ./test 9",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 37
+    }
+
+
+
+
+
+
+  ]
+}
